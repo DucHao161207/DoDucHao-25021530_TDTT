@@ -1,1 +1,1 @@
-print("Xin chao, The gioi")
+print("Xin chao, The")

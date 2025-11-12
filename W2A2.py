@@ -1,1 +1,1 @@
-input ("Do Duc Hao")
+input("Do Duc Hao")

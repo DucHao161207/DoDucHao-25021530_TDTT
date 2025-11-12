@@ -1,1 +1,1 @@
-print ("dd")
+input ("Do Duc Hao")
